@@ -65,4 +65,5 @@ Created boxplots for Age and Fare to visually detect outliers.
 
 Used the IQR method to remove rows with extreme values beyond 1.5*IQR.
 
+
 Outcome: Outliers were removed, resulting in a cleaner dataset with reduced skew in numerical features.
