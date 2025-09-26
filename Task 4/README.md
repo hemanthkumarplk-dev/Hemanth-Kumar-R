@@ -48,7 +48,4 @@
     and 1**.
 -   Thresholding this probability determines the final class prediction.
 
-------------------------------------------------------------------------
 
-✅ You now have a full workflow for training, evaluating, and
-interpreting a logistic regression classifier.
